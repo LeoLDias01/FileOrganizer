@@ -1,0 +1,8 @@
+C:\Users\leonardoleal.CONCILIG\source\repos\FileOrganizer\FileOrganizer\bin\Debug\FileOrganizer.exe.config
+C:\Users\leonardoleal.CONCILIG\source\repos\FileOrganizer\FileOrganizer\bin\Debug\FileOrganizer.exe
+C:\Users\leonardoleal.CONCILIG\source\repos\FileOrganizer\FileOrganizer\bin\Debug\FileOrganizer.pdb
+C:\Users\leonardoleal.CONCILIG\source\repos\FileOrganizer\FileOrganizer\obj\Debug\FileOrganizer.csproj.AssemblyReference.cache
+C:\Users\leonardoleal.CONCILIG\source\repos\FileOrganizer\FileOrganizer\obj\Debug\FileOrganizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\leonardoleal.CONCILIG\source\repos\FileOrganizer\FileOrganizer\obj\Debug\FileOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\leonardoleal.CONCILIG\source\repos\FileOrganizer\FileOrganizer\obj\Debug\FileOrganizer.exe
+C:\Users\leonardoleal.CONCILIG\source\repos\FileOrganizer\FileOrganizer\obj\Debug\FileOrganizer.pdb
